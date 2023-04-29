@@ -28,3 +28,6 @@ const App = () => {
 }
 
 export default App;
+
+
+// After this we will create Node.js Application and create server which we connect to mongoDB and grab all data that is hardcoded on your screen to MongoDb then we will pull it out
